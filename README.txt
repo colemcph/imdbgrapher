@@ -7,6 +7,8 @@ pip install matplotlib
 pip install beautifulsoup4
 pip install lmxl
 pip install requests
+pip install numpy
+
 
 This is currently only for the 'most popular' tab on IMDB.
 You can change sizing by dragging window borders.
